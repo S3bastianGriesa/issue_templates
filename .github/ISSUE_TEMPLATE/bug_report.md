@@ -3,6 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug
+# add responsible assignees for the according repository
 assignees: S3bastianGriesa
 
 ---
@@ -10,9 +11,9 @@ assignees: S3bastianGriesa
 ## Setup
 
 - Betriebssystem (`Windows`, `macOS` oder `Linux` + Distribution/Version):
+- Datenbankmanagementsystem (`MySQL`, `MSSQL`, `PostgreSQL`, `SQLite` + Distribution/Version):
 - Atlas-Engine-Version:
 - BPMN-Studio-Version:
-- Datenbank-Engine und -Version:
 - Docker-Version:
 
 ## Was wurde getan?
