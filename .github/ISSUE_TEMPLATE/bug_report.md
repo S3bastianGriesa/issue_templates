@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Über einen Fehler berichten
+about: Berichte über einen Fehler
 title: ''
 labels: bug
 assignees: S3bastianGriesa

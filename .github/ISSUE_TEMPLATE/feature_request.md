@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Ein Feature vorschlagen
+about: Schlage ein Feature vor
 title: ''
 labels: enhancement
 assignees: S3bastianGriesa
