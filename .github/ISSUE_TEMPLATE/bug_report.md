@@ -11,7 +11,7 @@ assignees: S3bastianGriesa
 ## Setup
 
 - Betriebssystem (`Windows`, `macOS` oder `Linux` + Distribution/Version):
-- Datenbankmanagementsystem (`MySQL`, `MSSQL`, `PostgreSQL`, `SQLite` + Distribution/Version):
+- Datenbankmanagementsystem (`MySQL`, `MSSQL`, `PostgreSQL` oder `SQLite` + Distribution/Version):
 - Atlas-Engine-Version:
 - BPMN-Studio-Version:
 - Docker-Version:
