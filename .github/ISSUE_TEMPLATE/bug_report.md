@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: bug
 # add responsible assignees for the according repository
-assignees: S3bastianGriesa,ElRaptorus,NullEnt1ty
+assignees: S3bastianGriesa
 
 ---
 

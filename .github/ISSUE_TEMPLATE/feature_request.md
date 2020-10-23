@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: enhancement
 # add responsible assignees for the according repository
-assignees: S3bastianGriesa,ElRaptorus,NullEnt1ty
+assignees: S3bastianGriesa
 
 ---
 
